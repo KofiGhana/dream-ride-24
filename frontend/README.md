@@ -38,7 +38,7 @@ Dream Ride 24 Frontend is a React-based web application designed to provide a se
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/dream-ride-24-frontend.git
+1. Clone the repository: git clone https://github.com/KofiGhana/dream-ride-24-frontend.git
 2. Install dependencies: npm install
 3. Start the application: npm start
 
